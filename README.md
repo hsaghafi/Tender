@@ -258,7 +258,7 @@ Event ها
 
 describe "constructor"
 
-it "sets the USDT contract address correctly"
+            it "sets the USDT contract address correctly"
 
 بررسی میکند که آدرس کانترکت USDT به درستی توسط constructor ثبت شده باشد
 
