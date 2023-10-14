@@ -1,0 +1,7 @@
+Sepolia network:
+
+Tender contract address:
+0x690205F2CC55B35955395892DC9e2892FC8Be608
+
+TestUSDT contract address:
+0xd7153CCe4C931775B57AC241deA3b8af4eCF3c03
